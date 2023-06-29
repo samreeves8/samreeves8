@@ -4,7 +4,7 @@ I am a life long learner that enjoys making fun and useful websites. I enjoy pro
 
 Take a look at the website that I built with a team for our senior capstone project here!
 
-https://gunnisoncoldpooling.net/
+- https://gunnisoncoldpooling.net/
 
 
 Skills: PHP / JS / HTML / CSS / C / C++ / Java
