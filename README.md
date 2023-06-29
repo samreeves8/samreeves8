@@ -4,7 +4,7 @@ I am a life long learner that enjoys making fun and useful websites. I enjoy pro
 
 Skills: PHP / JS / HTML / CSS / C / C++ / Java
 
-- 🔭 I’m currently working on a website to visualize data for my climbing gym. 
+- 🔭 I’m currently working on a website to visualize data for a climbing gym I work at. 
 - 🌱 I’m currently learning Laravel / Bootstrap 
 - 📫 How to reach me: samreeves8@gmail.com 
 
