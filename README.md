@@ -6,6 +6,7 @@ Take a look at the website that I built with a team for our senior capstone proj
 
 https://gunnisoncoldpooling.net/
 
+
 Skills: PHP / JS / HTML / CSS / C / C++ / Java
 
 - 🔭 I’m currently working on a website to visualize data for a climbing gym I work at. 
